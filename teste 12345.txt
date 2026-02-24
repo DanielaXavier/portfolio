@@ -1,2 +1,0 @@
-teste 12323 arquivo editado
-editado em 24/02 para teste do git no terminal
